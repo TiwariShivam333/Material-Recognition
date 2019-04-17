@@ -10,3 +10,5 @@ Change test images to check results.
 ## Using pretrained weights
 
 If you don't want to waste time in training again run the file from cell no. 15. Trained weights and model is also uploaded here.
+
+Download Model pretrained weights from here- https://drive.google.com/open?id=1zE0-33hyH3xgV5oZNaAJ69sm6_DOhOhX
